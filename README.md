@@ -95,4 +95,5 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Piyush700gitt/LEETCODE/tree/master/0006-zigzag-conversion) |
+| [0038-count-and-say](https://github.com/Piyush700gitt/LEETCODE/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
