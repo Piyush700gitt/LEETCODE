@@ -81,11 +81,13 @@ Each problem folder contains:
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Piyush700gitt/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Piyush700gitt/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Piyush700gitt/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Piyush700gitt/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Piyush700gitt/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Piyush700gitt/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -95,6 +97,7 @@ Each problem folder contains:
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Piyush700gitt/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Piyush700gitt/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Piyush700gitt/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -108,4 +111,12 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Piyush700gitt/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Piyush700gitt/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Piyush700gitt/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
