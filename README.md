@@ -72,6 +72,7 @@ Each problem folder contains:
 | ------- |
 | [0994-rotting-oranges](https://github.com/Piyush700gitt/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Piyush700gitt/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1331-rank-transform-of-an-array](https://github.com/Piyush700gitt/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -142,4 +143,12 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/Piyush700gitt/LEETCODE/tree/master/0994-rotting-oranges) |
+## Hash Table
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Piyush700gitt/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Piyush700gitt/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
