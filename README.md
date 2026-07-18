@@ -76,6 +76,7 @@ Each problem folder contains:
 | [0994-rotting-oranges](https://github.com/Piyush700gitt/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Piyush700gitt/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1331-rank-transform-of-an-array](https://github.com/Piyush700gitt/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Piyush700gitt/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piyush700gitt/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
@@ -134,6 +135,7 @@ Each problem folder contains:
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Piyush700gitt/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Piyush700gitt/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piyush700gitt/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
@@ -181,5 +183,6 @@ Each problem folder contains:
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Piyush700gitt/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piyush700gitt/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
