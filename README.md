@@ -33,7 +33,7 @@ I'm currently focused on:
 
 ## 📈 Progress
 
-- ✅ 227+ LeetCode Problems Solved
+- ✅ 250+ LeetCode Problems Solved
 - 🔄 Repository automatically updates after every accepted submission.
 
 ---
