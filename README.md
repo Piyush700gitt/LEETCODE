@@ -76,6 +76,7 @@ Each problem folder contains:
 | [0733-flood-fill](https://github.com/Piyush700gitt/LEETCODE/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Piyush700gitt/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Piyush700gitt/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/Piyush700gitt/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1331-rank-transform-of-an-array](https://github.com/Piyush700gitt/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Piyush700gitt/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piyush700gitt/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -133,6 +134,7 @@ Each problem folder contains:
 | [0130-surrounded-regions](https://github.com/Piyush700gitt/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Piyush700gitt/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Piyush700gitt/LEETCODE/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Piyush700gitt/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Piyush700gitt/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Math
 |  |
@@ -148,11 +150,13 @@ Each problem folder contains:
 | [0547-number-of-provinces](https://github.com/Piyush700gitt/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Piyush700gitt/LEETCODE/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Piyush700gitt/LEETCODE/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Piyush700gitt/LEETCODE/tree/master/1020-number-of-enclaves) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Piyush700gitt/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Piyush700gitt/LEETCODE/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Piyush700gitt/LEETCODE/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
@@ -164,6 +168,7 @@ Each problem folder contains:
 | [0542-01-matrix](https://github.com/Piyush700gitt/LEETCODE/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Piyush700gitt/LEETCODE/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Piyush700gitt/LEETCODE/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Piyush700gitt/LEETCODE/tree/master/1020-number-of-enclaves) |
 ## Hash Table
 |  |
 | ------- |
