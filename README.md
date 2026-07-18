@@ -70,6 +70,7 @@ Each problem folder contains:
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Piyush700gitt/LEETCODE/tree/master/0016-3sum-closest) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Piyush700gitt/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/Piyush700gitt/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Piyush700gitt/LEETCODE/tree/master/0200-number-of-islands) |
@@ -187,6 +188,7 @@ Each problem folder contains:
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Piyush700gitt/LEETCODE/tree/master/0016-3sum-closest) |
 | [1331-rank-transform-of-an-array](https://github.com/Piyush700gitt/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piyush700gitt/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
@@ -196,6 +198,7 @@ Each problem folder contains:
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Piyush700gitt/LEETCODE/tree/master/0016-3sum-closest) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piyush700gitt/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
