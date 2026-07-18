@@ -115,6 +115,7 @@ Each problem folder contains:
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Piyush700gitt/LEETCODE/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/Piyush700gitt/LEETCODE/tree/master/0038-count-and-say) |
+| [0127-word-ladder](https://github.com/Piyush700gitt/LEETCODE/tree/master/0127-word-ladder) |
 ## Design
 |  |
 | ------- |
@@ -145,6 +146,7 @@ Each problem folder contains:
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Piyush700gitt/LEETCODE/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Piyush700gitt/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Piyush700gitt/LEETCODE/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Piyush700gitt/LEETCODE/tree/master/0547-number-of-provinces) |
@@ -172,6 +174,7 @@ Each problem folder contains:
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Piyush700gitt/LEETCODE/tree/master/0127-word-ladder) |
 | [1331-rank-transform-of-an-array](https://github.com/Piyush700gitt/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
