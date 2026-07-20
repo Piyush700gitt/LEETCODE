@@ -152,6 +152,7 @@ Each problem folder contains:
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Piyush700gitt/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2469-convert-the-temperature](https://github.com/Piyush700gitt/LEETCODE/tree/master/2469-convert-the-temperature) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Piyush700gitt/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piyush700gitt/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
