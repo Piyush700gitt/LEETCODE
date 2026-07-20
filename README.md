@@ -89,6 +89,7 @@ Each problem folder contains:
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Piyush700gitt/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Piyush700gitt/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyush700gitt/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
 |  |
 | ------- |
@@ -107,6 +108,7 @@ Each problem folder contains:
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Piyush700gitt/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyush700gitt/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Tree
 |  |
 | ------- |
@@ -120,6 +122,7 @@ Each problem folder contains:
 | [0006-zigzag-conversion](https://github.com/Piyush700gitt/LEETCODE/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/Piyush700gitt/LEETCODE/tree/master/0038-count-and-say) |
 | [0127-word-ladder](https://github.com/Piyush700gitt/LEETCODE/tree/master/0127-word-ladder) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyush700gitt/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Design
 |  |
 | ------- |
@@ -212,4 +215,8 @@ Each problem folder contains:
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Piyush700gitt/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piyush700gitt/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyush700gitt/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
