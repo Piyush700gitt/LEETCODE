@@ -159,6 +159,7 @@ Each problem folder contains:
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Piyush700gitt/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Piyush700gitt/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/Piyush700gitt/LEETCODE/tree/master/2469-convert-the-temperature) |
+| [3536-maximum-product-of-two-digits](https://github.com/Piyush700gitt/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Piyush700gitt/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piyush700gitt/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
@@ -214,6 +215,7 @@ Each problem folder contains:
 | ------- |
 | [0016-3sum-closest](https://github.com/Piyush700gitt/LEETCODE/tree/master/0016-3sum-closest) |
 | [1331-rank-transform-of-an-array](https://github.com/Piyush700gitt/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Piyush700gitt/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piyush700gitt/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
