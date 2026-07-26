@@ -80,6 +80,7 @@ Each problem folder contains:
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Piyush700gitt/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Piyush700gitt/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Piyush700gitt/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Piyush700gitt/LEETCODE/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/Piyush700gitt/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Piyush700gitt/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/Piyush700gitt/LEETCODE/tree/master/1929-concatenation-of-array) |
@@ -156,6 +157,7 @@ Each problem folder contains:
 ## Math
 |  |
 | ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Piyush700gitt/LEETCODE/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Piyush700gitt/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Piyush700gitt/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/Piyush700gitt/LEETCODE/tree/master/2469-convert-the-temperature) |
@@ -252,4 +254,8 @@ Each problem folder contains:
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Piyush700gitt/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Piyush700gitt/LEETCODE/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
