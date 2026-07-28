@@ -14,6 +14,7 @@ public:
         pq.pop();
         int dis=it.first;
         int node=it.second;
+        if(dist[node]<dis)continue;
         for(auto &ad:adj[node]){
             int wt=ad.second;
             int dest=ad.first;
