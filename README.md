@@ -102,6 +102,7 @@ Each problem folder contains:
 | [0173-binary-search-tree-iterator](https://github.com/Piyush700gitt/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Piyush700gitt/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Piyush700gitt/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/Piyush700gitt/LEETCODE/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -123,6 +124,7 @@ Each problem folder contains:
 | [0173-binary-search-tree-iterator](https://github.com/Piyush700gitt/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Piyush700gitt/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Piyush700gitt/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/Piyush700gitt/LEETCODE/tree/master/2236-root-equals-sum-of-children) |
 ## String
 |  |
 | ------- |
