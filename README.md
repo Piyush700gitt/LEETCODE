@@ -170,6 +170,7 @@ Each problem folder contains:
 | [0785-is-graph-bipartite](https://github.com/Piyush700gitt/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Piyush700gitt/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Piyush700gitt/LEETCODE/tree/master/0802-find-eventual-safe-states) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Piyush700gitt/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Piyush700gitt/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Piyush700gitt/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Piyush700gitt/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -216,6 +217,7 @@ Each problem folder contains:
 | [0200-number-of-islands](https://github.com/Piyush700gitt/LEETCODE/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Piyush700gitt/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Piyush700gitt/LEETCODE/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Piyush700gitt/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Piyush700gitt/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Piyush700gitt/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Piyush700gitt/LEETCODE/tree/master/1631-path-with-minimum-effort) |
@@ -229,6 +231,7 @@ Each problem folder contains:
 | [0785-is-graph-bipartite](https://github.com/Piyush700gitt/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Piyush700gitt/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Piyush700gitt/LEETCODE/tree/master/0802-find-eventual-safe-states) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Piyush700gitt/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Piyush700gitt/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Piyush700gitt/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Piyush700gitt/LEETCODE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -249,6 +252,7 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Piyush700gitt/LEETCODE/tree/master/0127-word-ladder) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Piyush700gitt/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1331-rank-transform-of-an-array](https://github.com/Piyush700gitt/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Piyush700gitt/LEETCODE/tree/master/3731-find-missing-elements) |
@@ -333,4 +337,8 @@ Each problem folder contains:
 | ------- |
 | [0486-predict-the-winner](https://github.com/Piyush700gitt/LEETCODE/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/Piyush700gitt/LEETCODE/tree/master/1406-stone-game-iii) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Piyush700gitt/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
