@@ -174,6 +174,7 @@ Each problem folder contains:
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Piyush700gitt/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Piyush700gitt/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Piyush700gitt/LEETCODE/tree/master/1631-path-with-minimum-effort) |
+| [3310-remove-methods-from-project](https://github.com/Piyush700gitt/LEETCODE/tree/master/3310-remove-methods-from-project) |
 ## Math
 |  |
 | ------- |
@@ -207,6 +208,7 @@ Each problem folder contains:
 | [1091-shortest-path-in-binary-matrix](https://github.com/Piyush700gitt/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Piyush700gitt/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Piyush700gitt/LEETCODE/tree/master/1631-path-with-minimum-effort) |
+| [3310-remove-methods-from-project](https://github.com/Piyush700gitt/LEETCODE/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -230,6 +232,7 @@ Each problem folder contains:
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Piyush700gitt/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Piyush700gitt/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Piyush700gitt/LEETCODE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3310-remove-methods-from-project](https://github.com/Piyush700gitt/LEETCODE/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
 | ------- |
