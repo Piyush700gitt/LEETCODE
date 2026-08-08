@@ -138,6 +138,7 @@ Each problem folder contains:
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyush700gitt/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Piyush700gitt/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Piyush700gitt/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Piyush700gitt/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Design
@@ -158,6 +159,7 @@ Each problem folder contains:
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Piyush700gitt/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/Piyush700gitt/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Piyush700gitt/LEETCODE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Piyush700gitt/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -277,6 +279,7 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Piyush700gitt/LEETCODE/tree/master/0016-3sum-closest) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Piyush700gitt/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piyush700gitt/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -297,6 +300,7 @@ Each problem folder contains:
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyush700gitt/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Piyush700gitt/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Piyush700gitt/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Topological Sort
 |  |
