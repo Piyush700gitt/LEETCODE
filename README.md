@@ -93,6 +93,7 @@ Each problem folder contains:
 | [1631-path-with-minimum-effort](https://github.com/Piyush700gitt/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [1929-concatenation-of-array](https://github.com/Piyush700gitt/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Piyush700gitt/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Piyush700gitt/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/Piyush700gitt/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piyush700gitt/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
@@ -280,6 +281,7 @@ Each problem folder contains:
 | [0721-accounts-merge](https://github.com/Piyush700gitt/LEETCODE/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Piyush700gitt/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1331-rank-transform-of-an-array](https://github.com/Piyush700gitt/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Piyush700gitt/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Piyush700gitt/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -403,4 +405,8 @@ Each problem folder contains:
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Piyush700gitt/LEETCODE/tree/master/1192-critical-connections-in-a-network) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Piyush700gitt/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
