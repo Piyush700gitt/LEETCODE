@@ -166,6 +166,7 @@ Each problem folder contains:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Piyush700gitt/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Piyush700gitt/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Piyush700gitt/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/0213-house-robber-ii) |
@@ -204,6 +205,7 @@ Each problem folder contains:
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Piyush700gitt/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Piyush700gitt/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Piyush700gitt/LEETCODE/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/1140-stone-game-ii) |
@@ -438,4 +440,8 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Piyush700gitt/LEETCODE/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Piyush700gitt/LEETCODE/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
