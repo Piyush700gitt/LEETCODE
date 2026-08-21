@@ -71,6 +71,7 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Piyush700gitt/LEETCODE/tree/master/0016-3sum-closest) |
+| [0063-unique-paths-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Piyush700gitt/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/Piyush700gitt/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/Piyush700gitt/LEETCODE/tree/master/0198-house-robber) |
@@ -167,6 +168,7 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Piyush700gitt/LEETCODE/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Piyush700gitt/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Piyush700gitt/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/0213-house-robber-ii) |
@@ -276,6 +278,7 @@ Each problem folder contains:
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/Piyush700gitt/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Piyush700gitt/LEETCODE/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Piyush700gitt/LEETCODE/tree/master/0542-01-matrix) |
