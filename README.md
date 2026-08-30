@@ -79,6 +79,7 @@ Each problem folder contains:
 | [0198-house-robber](https://github.com/Piyush700gitt/LEETCODE/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Piyush700gitt/LEETCODE/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Piyush700gitt/LEETCODE/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Piyush700gitt/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Piyush700gitt/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Piyush700gitt/LEETCODE/tree/master/0542-01-matrix) |
@@ -188,6 +189,7 @@ Each problem folder contains:
 | [0120-triangle](https://github.com/Piyush700gitt/LEETCODE/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Piyush700gitt/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Piyush700gitt/LEETCODE/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Piyush700gitt/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Piyush700gitt/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Piyush700gitt/LEETCODE/tree/master/0542-01-matrix) |
@@ -250,6 +252,7 @@ Each problem folder contains:
 | [0200-number-of-islands](https://github.com/Piyush700gitt/LEETCODE/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Piyush700gitt/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/Piyush700gitt/LEETCODE/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Piyush700gitt/LEETCODE/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Piyush700gitt/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Piyush700gitt/LEETCODE/tree/master/0721-accounts-merge) |
@@ -489,6 +492,7 @@ Each problem folder contains:
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Piyush700gitt/LEETCODE/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Piyush700gitt/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
@@ -498,4 +502,8 @@ Each problem folder contains:
 |  |
 | ------- |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Piyush700gitt/LEETCODE/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Piyush700gitt/LEETCODE/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
