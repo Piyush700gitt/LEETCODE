@@ -82,6 +82,7 @@ Each problem folder contains:
 | [0322-coin-change](https://github.com/Piyush700gitt/LEETCODE/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Piyush700gitt/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Piyush700gitt/LEETCODE/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Piyush700gitt/LEETCODE/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Piyush700gitt/LEETCODE/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/Piyush700gitt/LEETCODE/tree/master/0721-accounts-merge) |
@@ -193,6 +194,7 @@ Each problem folder contains:
 | [0322-coin-change](https://github.com/Piyush700gitt/LEETCODE/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Piyush700gitt/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Piyush700gitt/LEETCODE/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Piyush700gitt/LEETCODE/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Piyush700gitt/LEETCODE/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Piyush700gitt/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -439,6 +441,7 @@ Each problem folder contains:
 ## Backtracking
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/Piyush700gitt/LEETCODE/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |
@@ -496,11 +499,13 @@ Each problem folder contains:
 | ------- |
 | [0322-coin-change](https://github.com/Piyush700gitt/LEETCODE/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Piyush700gitt/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Piyush700gitt/LEETCODE/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Piyush700gitt/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Piyush700gitt/LEETCODE/tree/master/0494-target-sum) |
 ## Enumeration
 |  |
 | ------- |
