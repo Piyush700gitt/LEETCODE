@@ -1,75 +1,60 @@
 class Solution {
+    int dir[5] = {-1,0,1,0,-1};
 public:
-    bool valid(int r,int c,int m,int n){
-        return (r>=0&&r<m&&c>=0&&c<n);
-    }
     int minMoves(vector<string>& classroom, int energy) {
-        int m=classroom.size();
-        int n=classroom[0].length();
-        vector<vector<int>> id(m, vector<int>(n, -1));
-        
-        int totall = 0;
-        int sr, sc;
-    
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(classroom[i][j]=='S'){
-                   sr=i,sc=j;
-                }
-                if(classroom[i][j]=='L'){
-                    id[i][j]=totall;
-                    totall++;
+        int m = classroom.size();  // 1-20
+        int n = classroom[0].size();  // 1-20
+        int stx, sty;      
+        int trash = 0; // pos -> index
+        for(int i=0; i<m; ++i){
+            for(int j=0; j<n; ++j){
+                if(classroom[i][j] == 'S'){
+                    stx = i; sty = j;
+                } else if(classroom[i][j] == 'L'){
+                    classroom[i][j] = '0' + trash;
+                    ++trash;
                 }
             }
         }
-       
-       int fullMask=(1<<totall)-1;
-       queue<tuple<int,int,int,int>>q;
-       q.push({sr,sc,energy,0});
+        if(trash == 0)
+            return 0;
+        int bitMax = (1 << trash) - 1; // reach it and return
+        // from hint, same status if already run bigger energy, smaller one can skip
+        int maxEng[20][20][1024];    
+        memset(maxEng, -1, sizeof(maxEng));
 
-       vector<vector<vector<vector<bool>>>>vis(m,vector<vector<vector<bool>>>(n,
-       vector<vector<bool>>(energy+1,
-       vector<bool>(1<<totall,false))));
-        vis[sr][sc][energy][0]=true;
-        int ans=0;
-        int dr[]={1,-1,0,0};
-        int dc[]={0,0,1,-1};
+        // run BFS
+        queue<tuple<int, int, int, int>> q;
+        q.push({stx, sty, energy, 0});
+        maxEng[stx][sty][0] = energy; // from hint
+        int step = 0;
+
         while(!q.empty()){
-            int size=q.size();
-            while(size--){
-                auto [r,c,curr,mask]=q.front();
+            int sz = q.size();
+            for(int run=0; run < sz; ++run){
+                auto [x, y, en, mask] = q.front(); 
                 q.pop();
-
-                if(mask==fullMask)return ans;
-
-                if(curr==0)continue;
-                for(int k=0;k<4;k++){
-                    int nr=r+dr[k];
-                    int nc=c+dc[k];
-
-                    if(!valid(nr,nc,m,n))continue;
-                    if(classroom[nr][nc]=='X')continue;
-
-                    int newEnergy=curr-1;
-                    int newMask=mask;
-
-                    if (classroom[nr][nc] == 'R') {
-                        newEnergy = energy;
+                if(mask == bitMax) return step;
+                if(en == 0) continue;
+                for(int i=0; i<4; ++i){
+                    int nextX = x + dir[i];
+                    int nextY = y + dir[i+1];
+                    if(nextX < 0 || nextX >= m || nextY < 0 || nextY >= n || classroom[nextX][nextY] == 'X') continue;
+                    int nextEn = en - 1;
+                    int nextMask = mask;
+                    if(classroom[nextX][nextY] == 'R')
+                        nextEn = energy;
+                    else if(classroom[nextX][nextY] <= '9' && classroom[nextX][nextY] >= '0'){
+                        nextMask |= 1 << (classroom[nextX][nextY] - '0');
                     }
-
-
-                    if(classroom[nr][nc]=='L'){
-                        newMask|=(1<<id[nr][nc]);
-                    }
-                    if(!vis[nr][nc][newEnergy][newMask]){
-                        vis[nr][nc][newEnergy][newMask]=true;
-                        q.push({nr,nc,newEnergy,newMask});
+                    if(maxEng[nextX][nextY][nextMask] < nextEn){
+                        maxEng[nextX][nextY][nextMask] = nextEn;
+                        q.push({nextX, nextY, nextEn, nextMask});    
                     }
                 }
             }
-            ans++;
+            ++step;
         }
-        
         return -1;
     }
 };
