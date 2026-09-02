@@ -164,6 +164,7 @@ Each problem folder contains:
 | [0316-remove-duplicate-letters](https://github.com/Piyush700gitt/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0721-accounts-merge](https://github.com/Piyush700gitt/LEETCODE/tree/master/0721-accounts-merge) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyush700gitt/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/Piyush700gitt/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Piyush700gitt/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2418-sort-the-people](https://github.com/Piyush700gitt/LEETCODE/tree/master/2418-sort-the-people) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Piyush700gitt/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -200,6 +201,7 @@ Each problem folder contains:
 | [0542-01-matrix](https://github.com/Piyush700gitt/LEETCODE/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Piyush700gitt/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1140-stone-game-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/1140-stone-game-ii) |
+| [1143-longest-common-subsequence](https://github.com/Piyush700gitt/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Piyush700gitt/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Piyush700gitt/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/Piyush700gitt/LEETCODE/tree/master/1406-stone-game-iii) |
@@ -524,4 +526,8 @@ Each problem folder contains:
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Piyush700gitt/LEETCODE/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Piyush700gitt/LEETCODE/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
