@@ -117,6 +117,7 @@ Each problem folder contains:
 | [3731-find-missing-elements](https://github.com/Piyush700gitt/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piyush700gitt/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3903-smallest-stable-index-i](https://github.com/Piyush700gitt/LEETCODE/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 ## Stack
 |  |
 | ------- |
@@ -463,6 +464,7 @@ Each problem folder contains:
 | [1140-stone-game-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/Piyush700gitt/LEETCODE/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/Piyush700gitt/LEETCODE/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 ## Zero-Sum Game
 |  |
 | ------- |
