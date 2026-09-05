@@ -165,6 +165,7 @@ Each problem folder contains:
 | [0127-word-ladder](https://github.com/Piyush700gitt/LEETCODE/tree/master/0127-word-ladder) |
 | [0316-remove-duplicate-letters](https://github.com/Piyush700gitt/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0516-longest-palindromic-subsequence](https://github.com/Piyush700gitt/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/Piyush700gitt/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/Piyush700gitt/LEETCODE/tree/master/0721-accounts-merge) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyush700gitt/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Piyush700gitt/LEETCODE/tree/master/1143-longest-common-subsequence) |
@@ -204,6 +205,7 @@ Each problem folder contains:
 | [0516-longest-palindromic-subsequence](https://github.com/Piyush700gitt/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Piyush700gitt/LEETCODE/tree/master/0542-01-matrix) |
+| [0583-delete-operation-for-two-strings](https://github.com/Piyush700gitt/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Piyush700gitt/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1140-stone-game-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Piyush700gitt/LEETCODE/tree/master/1143-longest-common-subsequence) |
@@ -537,5 +539,6 @@ Each problem folder contains:
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/Piyush700gitt/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/Piyush700gitt/LEETCODE/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
