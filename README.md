@@ -163,6 +163,7 @@ Each problem folder contains:
 | [0006-zigzag-conversion](https://github.com/Piyush700gitt/LEETCODE/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/Piyush700gitt/LEETCODE/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/Piyush700gitt/LEETCODE/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/Piyush700gitt/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Piyush700gitt/LEETCODE/tree/master/0127-word-ladder) |
 | [0316-remove-duplicate-letters](https://github.com/Piyush700gitt/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0516-longest-palindromic-subsequence](https://github.com/Piyush700gitt/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
@@ -198,6 +199,7 @@ Each problem folder contains:
 | [0064-minimum-path-sum](https://github.com/Piyush700gitt/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Piyush700gitt/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Piyush700gitt/LEETCODE/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/Piyush700gitt/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Piyush700gitt/LEETCODE/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Piyush700gitt/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/0213-house-robber-ii) |
