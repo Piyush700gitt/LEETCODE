@@ -90,6 +90,7 @@ Each problem folder contains:
 | [0778-swim-in-rising-water](https://github.com/Piyush700gitt/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Piyush700gitt/LEETCODE/tree/master/0827-making-a-large-island) |
 | [0905-sort-array-by-parity](https://github.com/Piyush700gitt/LEETCODE/tree/master/0905-sort-array-by-parity) |
+| [0946-validate-stack-sequences](https://github.com/Piyush700gitt/LEETCODE/tree/master/0946-validate-stack-sequences) |
 | [0994-rotting-oranges](https://github.com/Piyush700gitt/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Piyush700gitt/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Piyush700gitt/LEETCODE/tree/master/1020-number-of-enclaves) |
@@ -123,6 +124,7 @@ Each problem folder contains:
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Piyush700gitt/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0316-remove-duplicate-letters](https://github.com/Piyush700gitt/LEETCODE/tree/master/0316-remove-duplicate-letters) |
+| [0946-validate-stack-sequences](https://github.com/Piyush700gitt/LEETCODE/tree/master/0946-validate-stack-sequences) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Piyush700gitt/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyush700gitt/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
@@ -388,6 +390,7 @@ Each problem folder contains:
 ## Simulation
 |  |
 | ------- |
+| [0946-validate-stack-sequences](https://github.com/Piyush700gitt/LEETCODE/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/Piyush700gitt/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/Piyush700gitt/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piyush700gitt/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
