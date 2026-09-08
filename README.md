@@ -162,6 +162,7 @@ Each problem folder contains:
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Piyush700gitt/LEETCODE/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/Piyush700gitt/LEETCODE/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/Piyush700gitt/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Piyush700gitt/LEETCODE/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Piyush700gitt/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Piyush700gitt/LEETCODE/tree/master/0127-word-ladder) |
@@ -194,6 +195,7 @@ Each problem folder contains:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Piyush700gitt/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Piyush700gitt/LEETCODE/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Piyush700gitt/LEETCODE/tree/master/0064-minimum-path-sum) |
@@ -399,6 +401,7 @@ Each problem folder contains:
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Piyush700gitt/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0316-remove-duplicate-letters](https://github.com/Piyush700gitt/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyush700gitt/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Piyush700gitt/LEETCODE/tree/master/1386-cinema-seat-allocation) |
@@ -448,6 +451,7 @@ Each problem folder contains:
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Piyush700gitt/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0486-predict-the-winner](https://github.com/Piyush700gitt/LEETCODE/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
