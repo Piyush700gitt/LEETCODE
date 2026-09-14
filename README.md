@@ -258,6 +258,7 @@ Each problem folder contains:
 | [0062-unique-paths](https://github.com/Piyush700gitt/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Piyush700gitt/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Piyush700gitt/LEETCODE/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/Piyush700gitt/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Piyush700gitt/LEETCODE/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Piyush700gitt/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -434,6 +435,7 @@ Each problem folder contains:
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Piyush700gitt/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Piyush700gitt/LEETCODE/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Heap (Priority Queue)
 |  |
