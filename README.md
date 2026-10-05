@@ -190,6 +190,7 @@ Each problem folder contains:
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Piyush700gitt/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Piyush700gitt/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Piyush700gitt/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Piyush700gitt/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Piyush700gitt/LEETCODE/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Design
@@ -403,6 +404,7 @@ Each problem folder contains:
 | [0946-validate-stack-sequences](https://github.com/Piyush700gitt/LEETCODE/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/Piyush700gitt/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/Piyush700gitt/LEETCODE/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/Piyush700gitt/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piyush700gitt/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
