@@ -125,6 +125,7 @@ Each problem folder contains:
 | [0173-binary-search-tree-iterator](https://github.com/Piyush700gitt/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0316-remove-duplicate-letters](https://github.com/Piyush700gitt/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/Piyush700gitt/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Piyush700gitt/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [0946-validate-stack-sequences](https://github.com/Piyush700gitt/LEETCODE/tree/master/0946-validate-stack-sequences) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Piyush700gitt/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyush700gitt/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -176,6 +177,7 @@ Each problem folder contains:
 | [0583-delete-operation-for-two-strings](https://github.com/Piyush700gitt/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Piyush700gitt/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/Piyush700gitt/LEETCODE/tree/master/0721-accounts-merge) |
+| [0856-score-of-parentheses](https://github.com/Piyush700gitt/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyush700gitt/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Piyush700gitt/LEETCODE/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Piyush700gitt/LEETCODE/tree/master/1143-longest-common-subsequence) |
@@ -570,4 +572,5 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Piyush700gitt/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Piyush700gitt/LEETCODE/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
