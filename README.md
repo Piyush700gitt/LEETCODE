@@ -126,6 +126,7 @@ Each problem folder contains:
 | [0316-remove-duplicate-letters](https://github.com/Piyush700gitt/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/Piyush700gitt/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Piyush700gitt/LEETCODE/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piyush700gitt/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/Piyush700gitt/LEETCODE/tree/master/0946-validate-stack-sequences) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Piyush700gitt/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyush700gitt/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -178,6 +179,7 @@ Each problem folder contains:
 | [0678-valid-parenthesis-string](https://github.com/Piyush700gitt/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/Piyush700gitt/LEETCODE/tree/master/0721-accounts-merge) |
 | [0856-score-of-parentheses](https://github.com/Piyush700gitt/LEETCODE/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piyush700gitt/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyush700gitt/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Piyush700gitt/LEETCODE/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Piyush700gitt/LEETCODE/tree/master/1143-longest-common-subsequence) |
@@ -419,6 +421,7 @@ Each problem folder contains:
 | [0044-wildcard-matching](https://github.com/Piyush700gitt/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0316-remove-duplicate-letters](https://github.com/Piyush700gitt/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/Piyush700gitt/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piyush700gitt/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyush700gitt/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Piyush700gitt/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Piyush700gitt/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -575,4 +578,5 @@ Each problem folder contains:
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Piyush700gitt/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Piyush700gitt/LEETCODE/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piyush700gitt/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
