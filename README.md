@@ -172,6 +172,7 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Piyush700gitt/LEETCODE/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/Piyush700gitt/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/Piyush700gitt/LEETCODE/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Piyush700gitt/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Piyush700gitt/LEETCODE/tree/master/0072-edit-distance) |
@@ -269,6 +270,7 @@ Each problem folder contains:
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Piyush700gitt/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/Piyush700gitt/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Piyush700gitt/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Piyush700gitt/LEETCODE/tree/master/0486-predict-the-winner) |
@@ -367,6 +369,7 @@ Each problem folder contains:
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Piyush700gitt/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0127-word-ladder](https://github.com/Piyush700gitt/LEETCODE/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/Piyush700gitt/LEETCODE/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Piyush700gitt/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
