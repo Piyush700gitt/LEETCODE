@@ -90,6 +90,7 @@ Each problem folder contains:
 | [0778-swim-in-rising-water](https://github.com/Piyush700gitt/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Piyush700gitt/LEETCODE/tree/master/0827-making-a-large-island) |
 | [0905-sort-array-by-parity](https://github.com/Piyush700gitt/LEETCODE/tree/master/0905-sort-array-by-parity) |
+| [0931-minimum-falling-path-sum](https://github.com/Piyush700gitt/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [0946-validate-stack-sequences](https://github.com/Piyush700gitt/LEETCODE/tree/master/0946-validate-stack-sequences) |
 | [0994-rotting-oranges](https://github.com/Piyush700gitt/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Piyush700gitt/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -233,6 +234,7 @@ Each problem folder contains:
 | [0583-delete-operation-for-two-strings](https://github.com/Piyush700gitt/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Piyush700gitt/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Piyush700gitt/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0931-minimum-falling-path-sum](https://github.com/Piyush700gitt/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [1092-shortest-common-supersequence](https://github.com/Piyush700gitt/LEETCODE/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Piyush700gitt/LEETCODE/tree/master/1143-longest-common-subsequence) |
@@ -360,6 +362,7 @@ Each problem folder contains:
 | [0733-flood-fill](https://github.com/Piyush700gitt/LEETCODE/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/Piyush700gitt/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Piyush700gitt/LEETCODE/tree/master/0827-making-a-large-island) |
+| [0931-minimum-falling-path-sum](https://github.com/Piyush700gitt/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Piyush700gitt/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Piyush700gitt/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Piyush700gitt/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
