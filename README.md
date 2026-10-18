@@ -87,6 +87,7 @@ Each problem folder contains:
 | [0542-01-matrix](https://github.com/Piyush700gitt/LEETCODE/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/Piyush700gitt/LEETCODE/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Piyush700gitt/LEETCODE/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/Piyush700gitt/LEETCODE/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/Piyush700gitt/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Piyush700gitt/LEETCODE/tree/master/0827-making-a-large-island) |
 | [0905-sort-array-by-parity](https://github.com/Piyush700gitt/LEETCODE/tree/master/0905-sort-array-by-parity) |
@@ -233,6 +234,7 @@ Each problem folder contains:
 | [0542-01-matrix](https://github.com/Piyush700gitt/LEETCODE/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Piyush700gitt/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Piyush700gitt/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [0741-cherry-pickup](https://github.com/Piyush700gitt/LEETCODE/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Piyush700gitt/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/Piyush700gitt/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [1092-shortest-common-supersequence](https://github.com/Piyush700gitt/LEETCODE/tree/master/1092-shortest-common-supersequence) |
@@ -360,6 +362,7 @@ Each problem folder contains:
 | [0200-number-of-islands](https://github.com/Piyush700gitt/LEETCODE/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Piyush700gitt/LEETCODE/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Piyush700gitt/LEETCODE/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/Piyush700gitt/LEETCODE/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/Piyush700gitt/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Piyush700gitt/LEETCODE/tree/master/0827-making-a-large-island) |
 | [0931-minimum-falling-path-sum](https://github.com/Piyush700gitt/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
