@@ -255,6 +255,7 @@ Each problem folder contains:
 | [0787-cheapest-flights-within-k-stops](https://github.com/Piyush700gitt/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/Piyush700gitt/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [1092-shortest-common-supersequence](https://github.com/Piyush700gitt/LEETCODE/tree/master/1092-shortest-common-supersequence) |
+| [1137-n-th-tribonacci-number](https://github.com/Piyush700gitt/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Piyush700gitt/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Piyush700gitt/LEETCODE/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -298,6 +299,7 @@ Each problem folder contains:
 | [0070-climbing-stairs](https://github.com/Piyush700gitt/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Piyush700gitt/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/Piyush700gitt/LEETCODE/tree/master/0836-rectangle-overlap) |
+| [1137-n-th-tribonacci-number](https://github.com/Piyush700gitt/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Piyush700gitt/LEETCODE/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Piyush700gitt/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -578,6 +580,7 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Piyush700gitt/LEETCODE/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Piyush700gitt/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
