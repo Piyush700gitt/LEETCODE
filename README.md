@@ -102,6 +102,7 @@ Each problem folder contains:
 | [0994-rotting-oranges](https://github.com/Piyush700gitt/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Piyush700gitt/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Piyush700gitt/LEETCODE/tree/master/1020-number-of-enclaves) |
+| [1049-last-stone-weight-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Piyush700gitt/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Piyush700gitt/LEETCODE/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -254,6 +255,7 @@ Each problem folder contains:
 | [0741-cherry-pickup](https://github.com/Piyush700gitt/LEETCODE/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Piyush700gitt/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/Piyush700gitt/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Piyush700gitt/LEETCODE/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/Piyush700gitt/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/1140-stone-game-ii) |
@@ -593,11 +595,13 @@ Each problem folder contains:
 | [0416-partition-equal-subset-sum](https://github.com/Piyush700gitt/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Piyush700gitt/LEETCODE/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/0518-coin-change-ii) |
+| [1049-last-stone-weight-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Piyush700gitt/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Piyush700gitt/LEETCODE/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/1049-last-stone-weight-ii) |
 ## Enumeration
 |  |
 | ------- |
