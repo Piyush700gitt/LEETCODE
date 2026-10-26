@@ -129,6 +129,7 @@ Each problem folder contains:
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Piyush700gitt/LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Piyush700gitt/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Piyush700gitt/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Piyush700gitt/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Piyush700gitt/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Piyush700gitt/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piyush700gitt/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -295,6 +296,7 @@ Each problem folder contains:
 | [1631-path-with-minimum-effort](https://github.com/Piyush700gitt/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Piyush700gitt/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Piyush700gitt/LEETCODE/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Piyush700gitt/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -348,6 +350,7 @@ Each problem folder contains:
 | [1631-path-with-minimum-effort](https://github.com/Piyush700gitt/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [3310-remove-methods-from-project](https://github.com/Piyush700gitt/LEETCODE/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Piyush700gitt/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Piyush700gitt/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
@@ -364,6 +367,7 @@ Each problem folder contains:
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Piyush700gitt/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Piyush700gitt/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Piyush700gitt/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Piyush700gitt/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -402,6 +406,7 @@ Each problem folder contains:
 | [1463-cherry-pickup-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/Piyush700gitt/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Piyush700gitt/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Piyush700gitt/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
