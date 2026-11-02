@@ -86,6 +86,7 @@ Each problem folder contains:
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Piyush700gitt/LEETCODE/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Piyush700gitt/LEETCODE/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Piyush700gitt/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Piyush700gitt/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Piyush700gitt/LEETCODE/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/0518-coin-change-ii) |
@@ -303,6 +304,7 @@ Each problem folder contains:
 | [0012-integer-to-roman](https://github.com/Piyush700gitt/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/Piyush700gitt/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Piyush700gitt/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Piyush700gitt/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/Piyush700gitt/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [1137-n-th-tribonacci-number](https://github.com/Piyush700gitt/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
@@ -428,6 +430,7 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Piyush700gitt/LEETCODE/tree/master/0016-3sum-closest) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0721-accounts-merge](https://github.com/Piyush700gitt/LEETCODE/tree/master/0721-accounts-merge) |
 | [0905-sort-array-by-parity](https://github.com/Piyush700gitt/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/Piyush700gitt/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
