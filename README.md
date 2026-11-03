@@ -86,6 +86,7 @@ Each problem folder contains:
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Piyush700gitt/LEETCODE/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Piyush700gitt/LEETCODE/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Piyush700gitt/LEETCODE/tree/master/0368-largest-divisible-subset) |
+| [0376-wiggle-subsequence](https://github.com/Piyush700gitt/LEETCODE/tree/master/0376-wiggle-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Piyush700gitt/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Piyush700gitt/LEETCODE/tree/master/0486-predict-the-winner) |
@@ -252,6 +253,7 @@ Each problem folder contains:
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Piyush700gitt/LEETCODE/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Piyush700gitt/LEETCODE/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Piyush700gitt/LEETCODE/tree/master/0368-largest-divisible-subset) |
+| [0376-wiggle-subsequence](https://github.com/Piyush700gitt/LEETCODE/tree/master/0376-wiggle-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Piyush700gitt/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Piyush700gitt/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Piyush700gitt/LEETCODE/tree/master/0494-target-sum) |
@@ -490,6 +492,7 @@ Each problem folder contains:
 | [0044-wildcard-matching](https://github.com/Piyush700gitt/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Piyush700gitt/LEETCODE/tree/master/0316-remove-duplicate-letters) |
+| [0376-wiggle-subsequence](https://github.com/Piyush700gitt/LEETCODE/tree/master/0376-wiggle-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Piyush700gitt/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Piyush700gitt/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piyush700gitt/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
