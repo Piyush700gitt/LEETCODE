@@ -104,6 +104,7 @@ Each problem folder contains:
 | [0994-rotting-oranges](https://github.com/Piyush700gitt/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Piyush700gitt/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Piyush700gitt/LEETCODE/tree/master/1020-number-of-enclaves) |
+| [1048-longest-string-chain](https://github.com/Piyush700gitt/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Piyush700gitt/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/1140-stone-game-ii) |
@@ -203,6 +204,7 @@ Each problem folder contains:
 | [0856-score-of-parentheses](https://github.com/Piyush700gitt/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Piyush700gitt/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Piyush700gitt/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
+| [1048-longest-string-chain](https://github.com/Piyush700gitt/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Piyush700gitt/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Piyush700gitt/LEETCODE/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Piyush700gitt/LEETCODE/tree/master/1143-longest-common-subsequence) |
@@ -260,6 +262,7 @@ Each problem folder contains:
 | [0741-cherry-pickup](https://github.com/Piyush700gitt/LEETCODE/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Piyush700gitt/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/Piyush700gitt/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
+| [1048-longest-string-chain](https://github.com/Piyush700gitt/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Piyush700gitt/LEETCODE/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/Piyush700gitt/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
@@ -419,6 +422,7 @@ Each problem folder contains:
 | [0127-word-ladder](https://github.com/Piyush700gitt/LEETCODE/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/Piyush700gitt/LEETCODE/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Piyush700gitt/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1048-longest-string-chain](https://github.com/Piyush700gitt/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/Piyush700gitt/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Piyush700gitt/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [2418-sort-the-people](https://github.com/Piyush700gitt/LEETCODE/tree/master/2418-sort-the-people) |
@@ -437,6 +441,7 @@ Each problem folder contains:
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0721-accounts-merge](https://github.com/Piyush700gitt/LEETCODE/tree/master/0721-accounts-merge) |
 | [0905-sort-array-by-parity](https://github.com/Piyush700gitt/LEETCODE/tree/master/0905-sort-array-by-parity) |
+| [1048-longest-string-chain](https://github.com/Piyush700gitt/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/Piyush700gitt/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Piyush700gitt/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Piyush700gitt/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -456,6 +461,7 @@ Each problem folder contains:
 | ------- |
 | [0016-3sum-closest](https://github.com/Piyush700gitt/LEETCODE/tree/master/0016-3sum-closest) |
 | [0905-sort-array-by-parity](https://github.com/Piyush700gitt/LEETCODE/tree/master/0905-sort-array-by-parity) |
+| [1048-longest-string-chain](https://github.com/Piyush700gitt/LEETCODE/tree/master/1048-longest-string-chain) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Piyush700gitt/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Piyush700gitt/LEETCODE/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Piyush700gitt/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
