@@ -79,6 +79,7 @@ Each problem folder contains:
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Piyush700gitt/LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/Piyush700gitt/LEETCODE/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/Piyush700gitt/LEETCODE/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Piyush700gitt/LEETCODE/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Piyush700gitt/LEETCODE/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Piyush700gitt/LEETCODE/tree/master/0200-number-of-islands) |
@@ -199,6 +200,7 @@ Each problem folder contains:
 | [0072-edit-distance](https://github.com/Piyush700gitt/LEETCODE/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Piyush700gitt/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Piyush700gitt/LEETCODE/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/Piyush700gitt/LEETCODE/tree/master/0139-word-break) |
 | [0316-remove-duplicate-letters](https://github.com/Piyush700gitt/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0516-longest-palindromic-subsequence](https://github.com/Piyush700gitt/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Piyush700gitt/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
@@ -247,6 +249,7 @@ Each problem folder contains:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Piyush700gitt/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Piyush700gitt/LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/Piyush700gitt/LEETCODE/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Piyush700gitt/LEETCODE/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Piyush700gitt/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/0213-house-robber-ii) |
@@ -426,6 +429,7 @@ Each problem folder contains:
 | ------- |
 | [0012-integer-to-roman](https://github.com/Piyush700gitt/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0127-word-ladder](https://github.com/Piyush700gitt/LEETCODE/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/Piyush700gitt/LEETCODE/tree/master/0139-word-break) |
 | [0721-accounts-merge](https://github.com/Piyush700gitt/LEETCODE/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Piyush700gitt/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1048-longest-string-chain](https://github.com/Piyush700gitt/LEETCODE/tree/master/1048-longest-string-chain) |
@@ -613,6 +617,7 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Piyush700gitt/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Piyush700gitt/LEETCODE/tree/master/0139-word-break) |
 | [1137-n-th-tribonacci-number](https://github.com/Piyush700gitt/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 ## Combinatorics
 |  |
@@ -669,4 +674,12 @@ Each problem folder contains:
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Piyush700gitt/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Piyush700gitt/LEETCODE/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Piyush700gitt/LEETCODE/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
