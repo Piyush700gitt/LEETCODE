@@ -127,6 +127,7 @@ Each problem folder contains:
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Piyush700gitt/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Piyush700gitt/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Piyush700gitt/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Piyush700gitt/LEETCODE/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Piyush700gitt/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2418-sort-the-people](https://github.com/Piyush700gitt/LEETCODE/tree/master/2418-sort-the-people) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Piyush700gitt/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -457,6 +458,7 @@ Each problem folder contains:
 | [1331-rank-transform-of-an-array](https://github.com/Piyush700gitt/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Piyush700gitt/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Piyush700gitt/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Piyush700gitt/LEETCODE/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2418-sort-the-people](https://github.com/Piyush700gitt/LEETCODE/tree/master/2418-sort-the-people) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Piyush700gitt/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -547,6 +549,7 @@ Each problem folder contains:
 ## Counting Sort
 |  |
 | ------- |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Piyush700gitt/LEETCODE/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Piyush700gitt/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Piyush700gitt/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Recursion
